@@ -2,7 +2,7 @@ import { ShieldCheck, Droplets, Zap, Phone, Check } from 'lucide-react';
 import { BUSINESS_INFO } from '../data/showroomData';
 
 export function FeaturedPlywood() {
-  const plywoodImage = '/src/assets/images/plywood_marine_grade_macro_1790698897548.jpg';
+  const plywoodImage = '/plywood_marine_grade_macro_1790698897548.jpg';
 
   return (
     <section className="py-20 sm:py-28 relative overflow-hidden bg-[#0e1014] border-t border-b border-[#c69a58]/15">

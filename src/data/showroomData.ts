@@ -51,7 +51,7 @@ export const PRODUCT_CATEGORIES: ProductItem[] = [
     category: 'Plywood',
     description:
       'BWP Marine Grade Plywood designed for strong performance with high water and moisture resistance. Termite resistant for enduring interior and structural woodwork.',
-    image: '/src/assets/images/plywood_marine_grade_macro_1790698897548.jpg',
+    image: '/plywood_marine_grade_macro_1790698897548.jpg',
     keyFeature: 'BWP Marine Grade & Termite Resistant',
     highlightPoints: [
       'BWP Marine Grade Plywood',
@@ -66,7 +66,7 @@ export const PRODUCT_CATEGORIES: ProductItem[] = [
     category: 'Laminates',
     description:
       'Curated surface laminates offering rich textures, contemporary woodgrains, and tactile finishes for modern residential and commercial interiors.',
-    image: '/src/assets/images/laminates_swatches_1790698942221.jpg',
+    image: '/laminates_swatches_1790698942221.jpg',
     keyFeature: 'Surface Textures & Woodgrains',
     highlightPoints: [
       'Natural woodgrain & stone finishes',
@@ -81,7 +81,7 @@ export const PRODUCT_CATEGORIES: ProductItem[] = [
     category: 'Doors',
     description:
       'Solid and flush door solutions crafted for dimensional stability, sound dampening, and elegant architectural integration throughout your property.',
-    image: '/src/assets/images/doors_architectural_1790698959942.jpg',
+    image: '/doors_architectural_1790698959942.jpg',
     keyFeature: 'Architectural Strength & Finish',
     highlightPoints: [
       'Solid core & flush door options',
@@ -96,7 +96,7 @@ export const PRODUCT_CATEGORIES: ProductItem[] = [
     category: 'Hardware',
     description:
       'Precision architectural hardware, including mortise handles, security locksets, concealed hinges, and fittings engineered for smooth tactile operation.',
-    image: '/src/assets/images/hardware_brass_handles_1790698923842.jpg',
+    image: '/hardware_brass_handles_1790698923842.jpg',
     keyFeature: 'Brass & Matte Architectural Fittings',
     highlightPoints: [
       'Brushed brass & matte bronze handles',
@@ -111,7 +111,7 @@ export const PRODUCT_CATEGORIES: ProductItem[] = [
     category: 'Interior Materials',
     description:
       'Comprehensive material supplies for carpenters, architects, and contractors building bespoke interior cabinetry, wall paneling, and modular structures.',
-    image: '/src/assets/images/interior_living_wood_joinery_1790698909436.jpg',
+    image: '/interior_living_wood_joinery_1790698909436.jpg',
     keyFeature: 'Complete Joinery Solutions',
     highlightPoints: [
       'Modular interior framing materials',
@@ -155,42 +155,42 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'g-1',
     title: 'Showroom Interior & Material Display',
     category: 'Showroom',
-    image: '/src/assets/images/hero_wood_plywood_showroom_1790698880614.jpg',
+    image: '/hero_wood_plywood_showroom_1790698880614.jpg',
     caption: 'Modern showroom environment showcasing timber panels and interior finishes.',
   },
   {
     id: 'g-2',
     title: 'BWP Marine Grade Plywood Inspection',
     category: 'Plywood',
-    image: '/src/assets/images/plywood_marine_grade_macro_1790698897548.jpg',
+    image: '/plywood_marine_grade_macro_1790698897548.jpg',
     caption: 'Cross-section layers and natural grain of high water and moisture resistant plywood.',
   },
   {
     id: 'g-3',
     title: 'Architectural Brass & Lock Hardware',
     category: 'Hardware',
-    image: '/src/assets/images/hardware_brass_handles_1790698923842.jpg',
+    image: '/hardware_brass_handles_1790698923842.jpg',
     caption: 'Brushed brass handles and precision locksets on dark wood.',
   },
   {
     id: 'g-4',
     title: 'Decorative Laminate Surface Swatches',
     category: 'Products',
-    image: '/src/assets/images/laminates_swatches_1790698942221.jpg',
+    image: '/laminates_swatches_1790698942221.jpg',
     caption: 'Architectural texture swatches including woodgrains and contemporary matte tones.',
   },
   {
     id: 'g-5',
     title: 'Flush Architectural Door Entry',
     category: 'Products',
-    image: '/src/assets/images/doors_architectural_1790698959942.jpg',
+    image: '/doors_architectural_1790698959942.jpg',
     caption: 'Precision crafted wooden door suited for contemporary residences.',
   },
   {
     id: 'g-6',
     title: 'Integrated Interior Woodwork Scene',
     category: 'Interiors',
-    image: '/src/assets/images/interior_living_wood_joinery_1790698909436.jpg',
+    image: '/interior_living_wood_joinery_1790698909436.jpg',
     caption: 'Living space uniting plywood framing, decorative laminates, and brass detailing.',
   },
 ];

@@ -2,7 +2,7 @@ import { Star, MessageSquare, CheckCircle2, HeartHandshake } from 'lucide-react'
 import { BUSINESS_INFO } from '../data/showroomData';
 
 export function AboutSection() {
-  const showroomImage = '/src/assets/images/interior_living_wood_joinery_1790698909436.jpg';
+  const showroomImage = '/interior_living_wood_joinery_1790698909436.jpg';
 
   return (
     <section id="about" className="py-20 sm:py-28 relative overflow-hidden bg-[#0d0f12]">

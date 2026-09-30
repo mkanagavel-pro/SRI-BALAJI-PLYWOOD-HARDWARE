@@ -4,7 +4,7 @@ import { BUSINESS_INFO } from '../data/showroomData';
 
 export function InteriorSolutions() {
   const [activeTab, setActiveTab] = useState<'Plywood' | 'Laminates' | 'Doors' | 'Hardware'>('Plywood');
-  const interiorImage = '/src/assets/images/interior_living_wood_joinery_1790698909436.jpg';
+  const interiorImage = '/interior_living_wood_joinery_1790698909436.jpg';
 
   const categoryDetails = {
     Plywood: {

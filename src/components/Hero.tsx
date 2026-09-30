@@ -2,7 +2,7 @@ import { Star, Phone, MapPin, ChevronRight, Layers, ShieldCheck, Sparkles } from
 import { BUSINESS_INFO } from '../data/showroomData';
 
 export function Hero() {
-  const heroImage = '/src/assets/images/hero_wood_plywood_showroom_1790698880614.jpg';
+  const heroImage = '/hero_wood_plywood_showroom_1790698880614.jpg';
 
   const scrollToProducts = () => {
     const el = document.getElementById('products');
